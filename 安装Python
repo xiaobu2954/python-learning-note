@@ -1,0 +1,2 @@
+Python需要一个解释器来执行py文件，把python语言翻译成机器能看懂的机器码。对于开发人员来讲，我们使用的IDE就是集成了python解释器和其他辅助插件的一个工具。
+可以自行选择是到python官网http://www.python.org 下载Cpython对应windows/linux/mac的版本，也可以用本地的IDE，这里我选用的是vscode。
