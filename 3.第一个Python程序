@@ -1,0 +1,5 @@
+本地可以使用交互式和命令行模式两种方法进行python编码。
+我这里还是选用的vscode，我的代码运行在远端的服务器上，python可以像类似.exe和shell脚本一样执行执行，只需要在python脚本前面加上一个特殊的注释：
+#!/usr/bin/env python3
+print('hello world')
+脚本编辑保存后，再使用chmod a+x 给脚本加上执行权限即可执行该程序
